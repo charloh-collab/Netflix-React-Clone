@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "timothymclane.react-redux-es6-snippets",
+    "editor.formatOnPaste": true,
+    "git.enableCommitSigning": true
+}
